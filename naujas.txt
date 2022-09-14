@@ -1,1 +1,2 @@
 Naujas failas 0
+Nauja eilutė iš PyCharm
